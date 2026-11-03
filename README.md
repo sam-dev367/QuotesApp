@@ -28,7 +28,7 @@ The app allows users to view inspirational quotes and easily share them with fri
   
 
 
-* **Core Concepts:**
+ **Core Concepts:**
   
 * Array & String Collections
   

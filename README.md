@@ -44,44 +44,11 @@ The app allows users to view inspirational quotes and easily share them with fri
 
 
 
-
-
 ---
 
-## 📷 Screenshots / Preview
-
-*Add your app screenshot here once your emulator is running smoothly!*
-
-
-```markdown
-
-<img src="path_to_your_screenshot.png" width="300" alt="App Preview">
-
-```
-
----
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository:**
-
-```bash
-
-git clone https://github.com/YOUR_USERNAME/QuotesApp.git
-
-```
-
-
-2. Open **Android Studio**.
-
-3. Select **File > Open** and choose the cloned project folder.
-
-4. Let Gradle sync dependencies.
-
-5. Run the app on an Android Emulator (API 29 or higher) or a connected physical device by clicking the green **Run ▶️** button.
 
 ---
 
 ## 📄 License
 
-This project is open-source and available for educational purposes.
+This project is open-source and available for 

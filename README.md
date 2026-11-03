@@ -45,10 +45,3 @@ The app allows users to view inspirational quotes and easily share them with fri
 
 
 ---
-
-
----
-
-## 📄 License
-
-This project is open-source and available for 
